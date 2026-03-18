@@ -1,0 +1,5 @@
+{
+  "name": "Class Schedule Extractor",
+  "description": "Upload a screenshot of your class schedule and automatically generate a weekly timetable.",
+  "requestFramePermissions": []
+}
